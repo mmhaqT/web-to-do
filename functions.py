@@ -1,5 +1,5 @@
 
-FILEPATH = "/Users/mohammadm.haque/Documents/Course - Following 2020/Python-Project-2023/app1/Web-Todo-app/todos-1.txt"
+FILEPATH = "todos-1.txt"
 
 
 def get_todos(filepath=FILEPATH):
